@@ -1,12 +1,11 @@
-import { useState } from 'react'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
-      <h1>This is our Home Page</h1>
+      <h1>Welcome to Home Page</h1>
+      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit eligendi, fugit deleniti velit aut nam assumenda totam esse architecto dolores minus placeat quis eos vel fuga dolorem sint cupiditate quam?</p>
     </>
   )
 }
